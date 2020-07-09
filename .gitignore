@@ -1,0 +1,10 @@
+._*
+go.sum
+.classpath
+.project
+.settings/**
+.idea
+*.iml
+/output/*
+*.log
+_bulid/*
